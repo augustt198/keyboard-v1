@@ -1,4 +1,4 @@
-update=Monday, May 22, 2017 'AMt' 12:07:14 AM
+update=Tuesday, May 23, 2017 'PMt' 11:20:55 PM
 version=1
 last_client=kicad
 [cvpcb]
@@ -44,7 +44,7 @@ LibName31=switches
 [pcbnew]
 version=1
 PageLayoutDescrFile=
-LastNetListRead=keyboard_5.net
+LastNetListRead=keyboard_7.net
 PadDrill=0.762
 PadDrillOvalY=0.762
 PadSizeH=1.524
